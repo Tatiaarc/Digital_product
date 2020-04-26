@@ -1,0 +1,34 @@
+@media (max-width: 600px){
+.products{
+    display: inherit;
+    height: auto;
+}
+.product{
+    margin-top: auto;
+}
+
+.main_section{
+    padding: 4%;
+}
+.resena{
+    display: inherit;
+    /* height: auto; */
+}
+.contResena{
+    height: auto;
+}
+.menciones{
+    display: inherit;
+}
+.contMenciones{
+    height: auto;
+}
+.image_contenr{
+    width: 100%;
+    align-items:center ;
+    text-align: center;
+    justify-content: center;
+}
+
+
+}
